@@ -3886,6 +3886,10 @@
         "vagosympathetic_c": {
             "type": "nerve",
             "models": "ILX:0795507"
+        },
+        "cardiac_interganglionic_c": {
+            "type": "nerve",
+            "models": "ILX:0796679"
         }
     },
     "networks": [
