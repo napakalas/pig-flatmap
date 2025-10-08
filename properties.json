@@ -3879,6 +3879,10 @@
         "tympanic_c": {
             "type": "nerve",
             "models": "UBERON:0036216"
+        },
+        "vagosympathetic_c": {
+            "type": "nerve",
+            "models": "ILX:0795507"
         }
     },
     "networks": [
