@@ -691,6 +691,10 @@
         "term": "UBERON:0005436",
         "name": "common hepatic artery"
     },
+    "digestive_96": {
+        "term": "UBERON:0004782",
+        "name": "gastrointestinal system serosa"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
