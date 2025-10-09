@@ -3081,39 +3081,6 @@
         <ellipse transform="matrix(0.9808000326156616, -0.19499999284744263, 0.19499999284744263, 0.9808000326156616, -345.2972106933593, 248.5001068115234)" fill="#E7E6E6" stroke="#948F8F" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1089.549" cy="1878.105" rx="2.89" ry="15.311">
             <title>&lt;Path&gt;</title>
         </ellipse>
-        <polygon fill="#54BCEA" points="1328.509 1739.064 1328.034 1745.783 1322.657 1742.38" style="transform-origin: 1325.58px 1742.42px;" transform="matrix(0.643528223038, -0.765422105789, 0.765422105789, 0.643528223038, -0.29835018143, 0.149518622329)">
-            <title>.node id(maxillary_branching_point)</title>
-        </polygon>
-        <polygon fill="#54BCEA" points="1243.831 1755.743 1241.906 1779.577 1220.071 1767.505" style="" transform="matrix(1, 0, 0, 1, 7.402372837066764, -296.47633314132713)">
-            <title>.node id(auricular_vagus_5_branching_point)</title>
-        </polygon>
-        <polygon fill="#54BCEA" points="1282.21 1769.788 1280.285 1793.622 1258.45 1781.549" style="" transform="matrix(1, 0, 0, 1, 7.40237283706665, -296.47633314132713)">
-            <title>.node id(auricular_vagus_6_branching_point)</title>
-        </polygon>
-        <polygon fill="#54BCEA" points="1361.211 1773.54 1359.286 1797.374 1337.451 1785.301" style="" transform="matrix(1, 0, 0, 1, 7.40237283706665, -296.47633314132713)">
-            <title>.node id(auricular_vagus_4_branching_point)</title>
-        </polygon>
-        <polygon fill="#54BCEA" points="1085.178 1255.786 1083.253 1279.62 1061.418 1267.547" style="" transform="matrix(1, 0, 0, 1, 7.40237283706665, -296.4763331413269)">
-            <title>.node id(meningeal_vagus_1_branching_point)</title>
-        </polygon>
-        <polygon fill="#54BCEA" points="1576.446 1160.028 1574.521 1183.862 1552.686 1171.789" style="" transform="matrix(1, 0, 0, 1, 7.4023728370665935, -3.4763331413269043)">
-            <title>.node id(SLN_15_branching_point)</title>
-        </polygon>
-        <polygon fill="#54BCEA" points="1986.432 1548.736 1984.991 1567.78 1968.64 1558.133" style="" transform="matrix(1, 0, 0, 1, 7.40237283706665, -296.4763331413269)">
-            <title>.node id(CVN_5_branching_point)</title>
-        </polygon>
-        <polygon fill="#54BCEA" points="2004.907 1549.592 2003.373 1568.472 1985.973 1558.908" style="" transform="matrix(1, 0, 0, 1, 7.40237283706665, -296.4763331413269)">
-            <title>.node id(CVN_3_branching_point)</title>
-        </polygon>
-        <polygon fill="#54BCEA" points="2024.262 1548.161 2022.728 1567.041 2005.328 1557.477" style="" transform="matrix(1, 0, 0, 1, 7.40237283706665, -296.4763331413269)">
-            <title>.node id(CVN_4_branching_point)</title>
-        </polygon>
-        <polygon fill="#54BCEA" points="2043.224 1550.112 2041.69 1568.992 2024.29 1559.429" style="" transform="matrix(1, 0, 0, 1, 7.40237283706665, -296.4763331413269)">
-            <title>.node id(CVN_6_branching_point)</title>
-        </polygon>
-        <polygon fill="#54BCEA" points="1867.25 2026.758 1865.716 2045.638 1848.317 2036.075" style="" transform="matrix(1, 0, 0, 1, 7.40237283706665, -296.4763331413269)">
-            <title>.node id(PLM_1_branching_point)</title>
-        </polygon>
     </g>
     <g style="" transform="matrix(-0.030174, -0.062614, 0.060778, -0.029289, 1244.622081, 1860.073516)">
         <title>.id(eye_1-1)</title>
@@ -24159,6 +24126,39 @@
             <polygon fill="#54BCEA" points="1892.15 2069.263 1890.616 2088.142 1873.217 2078.579">
                 <title>.node id(esophageal_branching_point2)</title>
             </polygon>
+            <polygon fill="#54BCEA" points="1866.95 2026.91 1865.42 2045.79 1848.02 2036.22">
+                <title>.node id(PLM_1_branching_point)</title>
+            </polygon>
+            <polygon fill="#54BCEA" points="2042.93 1550.26 2041.39 1569.14 2023.99 1559.58">
+                <title>.node id(CVN_6_branching_point)</title>
+            </polygon>
+            <polygon fill="#54BCEA" points="2023.96 1548.31 2022.43 1567.19 2005.03 1557.63">
+                <title>.node id(CVN_4_branching_point)</title>
+            </polygon>
+            <polygon fill="#54BCEA" points="2004.61 1549.74 2003.08 1568.62 1985.67 1559.06">
+                <title>.node id(CVN_3_branching_point)</title>
+            </polygon>
+            <polygon fill="#54BCEA" points="1986.13 1548.88 1984.69 1567.93 1968.34 1558.28">
+                <title>.node id(CVN_5_branching_point)</title>
+            </polygon>
+            <polygon fill="#54BCEA" points="1576.15 1453.18 1574.22 1477.01 1552.39 1464.94">
+                <title>.node id(SLN_15_branching_point)</title>
+            </polygon>
+            <polygon fill="#54BCEA" points="1084.88 1255.93 1082.95 1279.77 1061.12 1267.7">
+                <title>.node id(meningeal_vagus_1_branching_point)</title>
+            </polygon>
+            <polygon fill="#54BCEA" points="1360.91 1773.69 1358.99 1797.52 1337.15 1785.45">
+                <title>.node id(auricular_vagus_4_branching_point)</title>
+            </polygon>
+            <polygon fill="#54BCEA" points="1281.91 1769.94 1279.99 1793.77 1258.15 1781.7">
+                <title>.node id(auricular_vagus_6_branching_point)</title>
+            </polygon>
+            <polygon fill="#54BCEA" points="1243.53 1755.89 1241.61 1779.73 1219.77 1767.65">
+                <title>.node id(auricular_vagus_5_branching_point)</title>
+            </polygon>
+            <polygon fill="#54BCEA" points="1320.51 2035.84 1320.04 2042.56 1314.66 2039.15" style="transform-origin: 1317.58px 2039.19px;" transform="matrix(0.643528, -0.765422, 0.765422, 0.643528, -0.000033, 0.000044)">
+                <title>.node id(maxillary_branching_point)</title>
+            </polygon>
         </g>
         <g style="">
             <title>Nerve cuffs</title>
@@ -24192,7 +24192,7 @@
                     <title>.id(esophageal_vagus_2)</title>
                 </path>
                 <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2612.608 1221.093 C 2610.821 1219.016 2605.53 1212.731 2613.199 1206.971 C 2620.866 1201.213 2637.182 1207.536 2638.522 1219.213 C 2639.863 1230.89 2630.373 1228.905 2630.15 1228.991" transform="matrix(0.987278, -0.159005, 0.159005, 0.987278, -160.117666, 432.696593)">
-                    <title>.id(esophageal_vagus_3)</title>
+                    <title>.id(_vagus_3)</title>
                 </path>
             </g>
             <g>
