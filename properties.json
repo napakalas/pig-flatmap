@@ -2060,6 +2060,36 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_40-1": {
+            "models": "UBERON:0002262",
+            "name": "celiac ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_41-1": {
+            "models": "UBERON:0005479",
+            "name": "superior mesenteric ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_42-1": {
+            "models": "ILX:0794730",
+            "name": "aorticorenal ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_43-1": {
+            "models": "ILX:0794764",
+            "name": "suprarenal ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_44-1": {
+            "models": "ILX:0793821",
+            "name": "prevertebral sympathetic ganglion in abdominal aortic plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_6-1": {
             "class": "body_6"
         },
@@ -3558,6 +3588,12 @@
         "plexus_1-1": {
             "class": "plexus_1"
         },
+        "plexus_5-1": {
+            "models": "ILX:0793704",
+            "name": "Esophageal nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "plexus_6-1": {
             "class": "plexus_6"
         },
@@ -3612,9 +3648,9 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
-        "plexus_5-1": {
-            "models": "ILX:0793704",
-            "name": "Esophageal nerve plexus",
+        "plexus_22-1": {
+            "models": "ILX:0795340",
+            "name": "celiac periarterial nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -3627,6 +3663,30 @@
         "plexus_25-1": {
             "models": "ILX:0794732",
             "name": "intermesenteric plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_32-1": {
+            "models": "UBERON:0035772",
+            "name": "aortic plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_33-1": {
+            "models": "UBERON:0002010",
+            "name": "celiac nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_34-1": {
+            "models": "UBERON:0005488",
+            "name": "superior mesenteric plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_35-1": {
+            "models": "UBERON:0018676",
+            "name": "renal nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -4124,6 +4184,14 @@
         "superior_ovarian_nerve_c": {
             "type": "nerve",
             "models": "ILX:0793822"
+        },
+        "splenic_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0793563"
+        },
+        "mesenteric_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0793714"
         },
         "ardell_1_c": {
             "type": "nerve"
