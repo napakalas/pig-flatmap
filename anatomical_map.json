@@ -1523,10 +1523,6 @@
         "term": "ILX:0738374",
         "name": "External branch of superior laryngeal nerve"
     },
-    "bolser_5": {
-        "term": "UBERON:0001649",
-        "name": "glossopharyngeal nerve"
-    },
     "bolser_22": {
         "term": "UBERON:0009009",
         "name": "carotid sinus nerve"

@@ -21568,12 +21568,6 @@
                     <title>.centreline id(auricular_vagus_6)</title>
                 </path>
             </g>
-            <g style="" transform="matrix(1, 0, 0, 1, -200.647934, 185.358231)">
-                <title>bolser_11</title>
-                <path style="fill: none; stroke: rgb(175, 162, 2);" d="M 1305.598 522.42 C 1305.598 522.42 1405.753 729.781 1523.453 896.571 C 1641.153 1063.361 2281.325 851.018 2544.369 995.61">
-                    <title>.centreline id(bolser_11)</title>
-                </path>
-            </g>
             <g style="" transform="matrix(1, 0, 0, 1, -1.119177, 287.174194)">
                 <title>branch_of_right_vagus_nerve_to_pancreas</title>
                 <path style="fill: none; stroke: rgb(175, 162, 2);" d="M 2796.364 887.873 C 2796.364 887.873 2855.305 1194.331 2457.028 1766.235" transform="matrix(1, 0, 0, 1, -1.3642420526593924e-12, -4.547473508864641e-13)">
@@ -21709,19 +21703,25 @@
                     <title>.centreline id(gastric_vagus_1)</title>
                 </path>
             </g>
-            <g transform="matrix(1, 0, 0, 0.79825, -152.220642, 467.699249)" style="">
+            <g transform="matrix(1, 0, 0, 1.151908, -1225.498413, 52.859116)" style="transform-origin: 1035.18px 66.1225px;">
                 <title>glossopharyngeal_nerve</title>
-                <path style="fill: none; stroke: rgb(175, 162, 2);" d="M 2497.403 888.689 L 2496.061 1131.129" transform="matrix(1, 0, 0, 1, -4.547473508864641e-13, -1.1368683772161603e-13)">
+                <path d="M 2493.746 1129.689 C 2476.499 1115.478 2453.54 1095.296 2427.103 1042.304 C 2367.437 922.706 2381.682 697.694 2411.524 664.002" style="fill: none; stroke: rgb(175, 162, 2); transform-origin: 1035.18px 66.1224px;" transform="matrix(1, 0, 0, 1, -0.000063, 0)">
                     <title>.centreline id(GLN_1)</title>
                 </path>
-                <path style="fill: none; stroke: rgb(175, 162, 2);" d="M 2495.081 1128.147 C 2495.081 1128.147 2439.219 1428.917 2453.352 1653.194">
+                <path style="fill: none; stroke: rgb(175, 162, 2);" d="M 2537.24 1491.34 C 2506.602 1518.842 2306.585 1392.513 2377.472 1188.271" transform="matrix(-1, 0, 0, -1, 5037.24755859, 2621.49438477)">
                     <title>.centreline id(GLN_2)</title>
                 </path>
-                <path style="fill: none; stroke: rgb(175, 162, 2);" d="M 2495.417 1128.975 C 2495.417 1128.975 2478.8 1603.803 2483.626 1680.576">
+                <path style="fill: none; stroke: rgb(175, 162, 2); transform-origin: 3962.11px 2562.34px;" d="M 2497.62 1497.5 C 2447.37 1530.141 2287.234 1302.731 2361.969 1184.417" transform="matrix(-1, 0, 0, -1, -2926.925293, -2496.208496)">
                     <title>.centreline id(GLN_3)</title>
                 </path>
-                <path style="fill: none; stroke: rgb(175, 162, 2);" d="M 2495.417 1129.554 C 2495.417 1129.554 2530.32 1482.859 2507.575 1650.739">
+                <path style="fill: none; stroke: rgb(175, 162, 2); transform-origin: 3932.82px 2533.07px;" d="M 2468.32 1467.65 C 2460.659 1473.059 2304.701 1345.489 2344.79 1183.58" transform="matrix(-1, 0, 0, -1, -2897.631348, -2466.934814)">
                     <title>.centreline id(GLN_4)</title>
+                </path>
+                <path fill="none" stroke="#AFA202" d="M 2461.76 1262.18 C 2464.62 1249.31 2376.098 1190.238 2367.552 1137.678" style="transform-origin: 3916.67px 2336.53px;" transform="matrix(-1, 0, 0, -1, -2881.47998, -2270.403076)">
+                    <title>.centreline id(tympanic)</title>
+                </path>
+                <path fill="none" stroke="#AFA202" d="M 2389.567 1446.837 C 2373.009 1416.36 2359.93 1347.72 2379.492 1291.99" style="transform-origin: 3946.18px 2655.85px;" transform="matrix(-1, 0, 0, -1, -2910.99707, -2589.717285)">
+                    <title>.centreline id(less_pet)</title>
                 </path>
             </g>
             <g style="" transform="matrix(1.148462, 0, 0, 1.158619, -386.697357, 115.257111)">
@@ -22503,12 +22503,6 @@
             </path>
             <path fill="none" stroke="#AFA202" d="M 1603.967 2185.647 C 1522.207 2182.728 1487.109 2178.414 1451.801 2149.91">
                 <title>.centreline id(auriculotemporal)</title>
-            </path>
-            <path fill="none" stroke="#AFA202" d="M 2349.951 1373.42 C 2370.651 1439.315 2380.444 1486.788 2388.824 1557.288" style="">
-                <title>.centreline id(tympanic)</title>
-            </path>
-            <path fill="none" stroke="#AFA202" d="M 2390.946 1566.17 C 2391.038 1634.933 2384.794 1768.512 2385.222 1772.639" style="">
-                <title>.centreline id(less_pet)</title>
             </path>
             <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M 853.485 1406.866 C 842.159 1507.122 827.793 1713.768 896.089 1915.101">
                 <title>.centreline id(vidian)</title>
@@ -23415,7 +23409,7 @@
             <path d="M 2046.474 854.741 C 2039.882 866.592 2024.932 870.857 2013.079 864.265 C 2001.228 857.674 1996.963 842.723 2003.555 830.87 C 2010.146 819.019 2025.098 814.754 2036.949 821.346 C 2048.801 827.938 2053.065 842.889 2046.474 854.741 Z" style="fill: rgb(178, 240, 116);">
                 <title>.id(ganglion_10-1)</title>
             </path>
-            <path fill="#B2F074" d="M 2330.274 1375.94 C 2327.399 1368.415 2331.197 1359.852 2338.685 1356.999 C 2346.173 1354.11 2354.691 1357.925 2357.53 1365.452 C 2360.405 1372.978 2356.608 1381.541 2349.119 1384.394 C 2341.559 1387.284 2333.113 1383.468 2330.274 1375.94 Z">
+            <path fill="#B2F074" d="M 1257.14 1353.02 C 1254.26 1345.49 1258.06 1336.92 1265.55 1334.09 C 1273.03 1331.18 1281.55 1335 1284.39 1342.54 C 1287.27 1350.07 1283.47 1358.62 1275.98 1361.46 C 1268.42 1364.37 1259.97 1360.56 1257.14 1353.02 Z" style="stroke-width: 1;">
                 <title>.id(ganglion_12-1)</title>
             </path>
             <path fill="#B2F074" d="M 1968.655 2098.532 C 1967.936 2097.751 1967.956 2096.547 1968.736 2095.805 C 1969.515 2095.06 1970.712 2095.099 1971.451 2095.883 C 1972.189 2096.668 1972.15 2097.869 1971.37 2098.614 C 1970.591 2099.338 1969.374 2099.296 1968.655 2098.532 Z" style="">
@@ -23725,16 +23719,19 @@
                     <title>.node id(CVN_point_3)</title>
                 </polygon>
             </g>
-            <g transform="matrix(1, 0, 0, 1, -155.745316, 348.972198)">
+            <g transform="matrix(1, 0, 0, 1, -1041.280396, 268.816071)">
                 <title>glosspharyngeal_points</title>
-                <polygon fill="#54BCEA" points="2467.936 1423.021 2461.948 1447.195 2442.682 1431.257" transform="matrix(0.936584, 0.350443, -0.350443, 0.936584, 658.628576, -769.436556)">
+                <polygon fill="#54BCEA" points="2487.81 1420.82 2473.72 1441.36 2461.27 1419.67">
                     <title>.node id(GLS_point_1)</title>
                 </polygon>
-                <polygon fill="#54BCEA" points="2496.736 1449.24 2490.748 1473.415 2471.483 1457.477" style="" transform="matrix(0.936584, 0.350443, -0.350443, 0.936584, 669.644196, -777.86741)">
+                <polygon fill="#54BCEA" points="2459.5 1433.84 2445.42 1454.39 2432.97 1432.7">
                     <title>.node id(GLS_point_2)</title>
                 </polygon>
-                <polygon fill="#54BCEA" points="2522.268 1423.371 2516.28 1447.544 2497.015 1431.606" style="" transform="matrix(0.936584, 0.350443, -0.350443, 0.936584, 662.197356, -788.455484)">
+                <polygon fill="#54BCEA" points="2452.8 1404.45 2438.73 1424.99 2426.27 1403.31">
                     <title>.node id(GLS_point_3)</title>
+                </polygon>
+                <polygon fill="#54BCEA" points="2403.13 1418.93 2429.66 1420.51 2416.78 1441.04" style="">
+                    <title>.node id(point_50)</title>
                 </polygon>
             </g>
             <g style="" transform="matrix(1, 0, 0, 1, -127.644875, 184.222229)">
@@ -24151,9 +24148,6 @@
             <polygon fill="#54BCEA" points="1199.423 798.184 1193.437 822.358 1174.172 806.42" transform="matrix(0.997356, 0.072668, -0.072668, 0.997356, 62.018463, -84.100017)">
                 <title>.node id(point_1)</title>
             </polygon>
-            <polygon fill="#54BCEA" points="2373.59 1764.237 2400.121 1765.826 2387.242 1786.35" style="">
-                <title>.node id(point_50)</title>
-            </polygon>
             <polygon fill="#54BCEA" points="906.725 1903.729 904.673 1930.462 881.384 1916.921" style="">
                 <title>.node id(vidian_branching_point)</title>
             </polygon>
@@ -24250,19 +24244,25 @@
                     <title>.id(esophageal_vagus_3)</title>
                 </path>
             </g>
-            <g>
-                <title>glossopharyngeal_cuffs</title>
-                <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2332.053 956.265 C 2330.266 954.188 2324.975 947.903 2332.644 942.143 C 2340.312 936.385 2356.628 942.708 2357.967 954.385 C 2359.308 966.062 2349.818 964.077 2349.595 964.163" transform="matrix(0.901385, -0.433019, 0.433019, 0.901385, -181.192561, 1108.608667)">
+            <g transform="matrix(1, 0, 0, 1.155405, 2.161707, -399.047852)" style="">
+                <title>glosspharyngeal_cuffs</title>
+                <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 1164.46 1077.72 C 1163.13 1077.11 1159.16 1075.2 1161.5 1070.47 C 1163.85 1065.74 1173.09 1064.99 1176.41 1070.49 C 1179.73 1076.03 1174.75 1077.36 1174.66 1077.43" style="stroke-width: 1;">
                     <title>.id(glossopharyngeal_1)</title>
                 </path>
-                <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2292.705 1311.032 C 2290.918 1308.955 2285.627 1302.67 2293.296 1296.91 C 2300.963 1291.152 2317.279 1297.475 2318.619 1309.152 C 2319.96 1320.83 2310.47 1318.844 2310.247 1318.93" transform="matrix(0.901385, -0.433019, 0.433019, 0.901385, -338.693736, 1126.55559)">
+                <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 1424.81 1386.85 C 1423.48 1387.39 1419.51 1389.04 1421.85 1393.19 C 1424.2 1397.35 1433.44 1398.01 1436.76 1393.16 C 1440.08 1388.31 1435.1 1387.18 1435.01 1387.09" style="stroke-width: 1;">
                     <title>.id(glossopharyngeal_2)</title>
                 </path>
-                <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2319.151 1337.038 C 2317.364 1334.961 2312.073 1328.676 2319.742 1322.916 C 2327.409 1317.158 2343.725 1323.481 2345.065 1335.158 C 2346.406 1346.836 2336.916 1344.85 2336.693 1344.936" style="" transform="matrix(0.901385, -0.433019, 0.433019, 0.901385, -347.347398, 1140.57178)">
+                <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 1410.45 1412.29 C 1409.33 1412.9 1405.97 1414.76 1407.95 1419.45 C 1409.93 1424.14 1417.75 1424.9 1420.55 1419.41 C 1423.36 1413.93 1419.15 1412.65 1419.07 1412.55" style="stroke-width: 1;">
                     <title>.id(glossopharyngeal_3)</title>
                 </path>
-                <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2349.335 1358.31 C 2347.548 1356.233 2342.257 1349.948 2349.926 1344.188 C 2357.593 1338.43 2373.909 1344.753 2375.249 1356.43 C 2376.59 1368.108 2367.1 1366.122 2366.877 1366.208" style="" transform="matrix(0.901385, -0.433019, 0.433019, 0.901385, -353.581963, 1155.739794)">
+                <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 1398.98 1443 C 1397.85 1443.55 1394.47 1445.22 1396.46 1449.45 C 1398.45 1453.67 1406.33 1454.35 1409.15 1449.41 C 1411.99 1444.48 1407.73 1443.32 1407.66 1443.24" style="stroke-width: 1;">
                     <title>.id(glossopharyngeal_4)</title>
+                </path>
+                <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 1337.74 1353.72 C 1336.97 1354.03 1334.67 1354.97 1335.94 1357.66 C 1337.21 1360.35 1342.49 1361 1344.47 1358.01 C 1346.45 1355.03 1343.61 1354.18 1343.56 1354.13" style="stroke-width: 1;">
+                    <title>.id(tympanic_c)</title>
+                </path>
+                <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 1381.75 1455.64 C 1380.99 1455.95 1378.69 1456.89 1379.96 1459.58 C 1381.23 1462.27 1386.5 1462.92 1388.49 1459.93 C 1390.47 1456.95 1387.62 1456.1 1387.58 1456.05" style="stroke-width: 1;">
+                    <title>.id(less_pet_c)</title>
                 </path>
             </g>
             <g>
@@ -24496,17 +24496,11 @@
             <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 3257.7 1306.73 C 3255.85 1305.29 3250.3 1300.91 3255.8 1294.69 C 3260.21 1289.7 3270.63 1290.28 3276.2 1295.67 C 3277.58 1297 3278.67 1298.63 3279.28 1300.54 C 3282.42 1310.17 3274.05 1310.17 3273.87 1310.29" style="">
                 <title>.id(splanchnic_n-4_c)</title>
             </path>
-            <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2385.9 1363 C 2384.86 1362.61 2381.8 1361.43 2383.49 1358.05 C 2385.19 1354.66 2392.24 1353.84 2394.88 1357.59 C 2397.51 1361.35 2393.74 1362.41 2393.67 1362.48" style="">
-                <title>.id(less_pet_c)</title>
-            </path>
             <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 1250.01 1829.4 C 1250.26 1828.82 1251.08 1827.11 1253.36 1828.07 C 1255.64 1829.02 1256.16 1832.97 1253.63 1834.46 C 1251.1 1835.93 1250.39 1833.81 1250.34 1833.77" style="">
                 <title>.id(nasopalatine_c)</title>
             </path>
             <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 1488.16 1880.45 C 1487.37 1880.13 1484.24 1879.43 1485.55 1876.74 C 1486.86 1874.04 1491.48 1871.83 1493.52 1874.82 C 1495.56 1877.81 1493.79 1877.88 1493.74 1877.94" style="">
                 <title>.id(auriculotemporal_c)</title>
-            </path>
-            <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2374.15 1194.64 C 2373.11 1194.25 2370.05 1193.07 2371.74 1189.69 C 2373.44 1186.3 2380.49 1185.48 2383.13 1189.23 C 2385.76 1192.99 2381.99 1194.05 2381.92 1194.12" style="stroke-width: 1;">
-                <title>.id(tympanic_c)</title>
             </path>
             <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 1343.46 1741.7 C 1341.77 1740.55 1336.71 1737 1340.23 1729.34 C 1343.74 1721.68 1355.99 1721.36 1359.83 1730.94 C 1363.72 1740.52 1357.03 1742.16 1356.9 1742.31">
                 <title>.id(trigeminal_c)</title>
