@@ -1511,6 +1511,18 @@
         "term": "UBERON:0002591",
         "name": "oral part of spinal trigeminal nucleus"
     },
+    "brain_60": {
+        "term": "UBERON:0002549",
+        "name": "ventral trigeminal tract"
+    },
+    "brain_61": {
+        "term": "UBERON:0014761",
+        "name": "spinal trigeminal tract"
+    },
+    "brain_62": {
+        "term": "UBERON:0007703",
+        "name": "spinothalamic tract"
+    },
     "recurrent_laryngeal_17": {
         "term": "ILX:0738308",
         "name": "External branch of inferior laryngeal nerve"
