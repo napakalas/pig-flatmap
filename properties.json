@@ -2434,6 +2434,9 @@
         "digestive_26-1": {
             "class": "digestive_26"
         },
+        "digestive_27-1": {
+            "class": "digestive_27"
+        },
         "digestive_31-1": {
             "class": "digestive_31"
         },
@@ -2720,6 +2723,10 @@
             "models": "UBERON:0006729",
             "name": "liver perisinusoidal space"
         },
+        "digestive_126-1": {
+            "models": "UBERON:0009959",
+            "name": "oropharynx lumen"
+        },
         "endocrine_2-1": {
             "class": "endocrine_2"
         },
@@ -2913,6 +2920,9 @@
         "respiratory_12-1": {
             "class": "respiratory_12"
         },
+        "respiratory_13-1": {
+            "class": "respiratory_13"
+        },
         "respiratory_14-1": {
             "class": "respiratory_14"
         },
@@ -2969,6 +2979,9 @@
         },
         "respiratory_30-1": {
             "class": "respiratory_30"
+        },
+        "respiratory_31-1": {
+            "class": "respiratory_31"
         },
         "respiratory_4-1": {
             "class": "respiratory_4"
@@ -3882,6 +3895,10 @@
         },
         "label_35-1": {
             "class": "label_35"
+        },
+        "urethral_sphincter": {
+            "models": "UBERON:0004917",
+            "name": "urethral sphincter"
         },
         "CNVII_c": {
             "type": "nerve",
