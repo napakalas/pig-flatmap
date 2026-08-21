@@ -1773,5 +1773,24 @@
                 []
             ]
         ]
+    },
+    {
+        "id": [
+            "UBERON:0004919",
+            []
+        ],
+        "name": "external urethral sphincter",
+        "aliases": [
+            [
+                "UBERON:0011380",
+                []
+            ],
+            [
+                "ILX:0793141",
+                [
+                    "UBERON:0000057"
+                ]
+            ]
+        ]
     }
 ]
