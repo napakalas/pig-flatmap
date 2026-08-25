@@ -1,20 +1,5 @@
 {
     "classes": {
-        "ganglion_6": {
-            "label": "atrial intracardiac ganglion"
-        },
-        "ganglion_7": {
-            "label": "ventricular intracardiac ganglion"
-        },
-        "label_1": {
-            "label": "dura mater in the posterior cranial fossa"
-        },
-        "label_2": {
-            "label": "posterior wall of external acoustic meatus"
-        },
-        "label_3": {
-            "label": "floor of external acoustic meatus"
-        },
         "label_11": {
             "label": "arytenoideus"
         },
@@ -24,31 +9,10 @@
         "label_13": {
             "label": "vocal cords"
         },
-        "body_1": {
-            "tooltip": false
-        },
-        "body_2": {
-            "tooltip": false
-        },
-        "body_3": {
-            "tooltip": false
-        },
-        "body_4": {
-            "tooltip": false
-        },
-        "body_5": {
-            "tooltip": false
-        },
         "body_6": {
             "tooltip": false
         },
         "brain_35": {
-            "tooltip": false
-        },
-        "respiratory_6": {
-            "tooltip": false
-        },
-        "respiratory_7": {
             "tooltip": false
         }
     },
@@ -1066,7 +1030,8 @@
             "name": "Dorsal gray commissure of first lumbar segment"
         },
         "S42_L2": {
-            "class": "spinal_42"
+            "models": "ILX:0793883",
+            "name": "Dorsal gray commissure of second lumbar segment"
         },
         "S42_L3": {
             "class": "spinal_42"
@@ -1956,12 +1921,6 @@
         "S52_T13": {
             "class": "spinal_52"
         },
-        "ganglion_8-1": {
-            "models": "UBERON:0001808",
-            "name": "parasympathetic ganglion",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
         "ganglion_9-1": {
             "class": "ganglion_9"
         },
@@ -2327,32 +2286,17 @@
         "cardio_16-1": {
             "class": "cardio_16"
         },
-        "cardio_18-1": {
-            "class": "cardio_18"
-        },
         "cardio_19-1": {
             "class": "cardio_19"
         },
         "cardio_2-1": {
             "class": "cardio_2"
         },
-        "cardio_20-1": {
-            "class": "cardio_20"
-        },
         "cardio_21-1": {
             "class": "cardio_21"
         },
-        "cardio_22-1": {
-            "class": "cardio_22"
-        },
-        "cardio_23-1": {
-            "class": "cardio_23"
-        },
         "cardio_24-1": {
             "class": "cardio_24"
-        },
-        "cardio_25-1": {
-            "class": "cardio_25"
         },
         "cardio_27-1": {
             "class": "cardio_27"
@@ -2383,15 +2327,6 @@
         },
         "cardio_3-1": {
             "class": "cardio_3"
-        },
-        "cardio_31-1": {
-            "class": "cardio_31"
-        },
-        "cardio_33-1": {
-            "class": "cardio_33"
-        },
-        "cardio_34-1": {
-            "class": "cardio_34"
         },
         "cardio_35-1": {
             "class": "cardio_35"
@@ -2473,9 +2408,6 @@
         },
         "digestive_33-1": {
             "class": "digestive_33"
-        },
-        "digestive_4-1": {
-            "class": "digestive_4"
         },
         "digestive_44-1": {
             "class": "digestive_44"
@@ -2771,7 +2703,6 @@
             "class": "endocrine_5"
         },
         "bladder_nerve": {
-            "class": "keast_1",
             "type": "nerve",
             "models": "ILX:0793559"
         },
@@ -2888,14 +2819,17 @@
         "reproductive_20-1": {
             "class": "reproductive_20"
         },
-        "reproductive_21-1": {
-            "class": "reproductive_21"
-        },
         "reproductive_22-1": {
             "class": "reproductive_22"
         },
         "reproductive_23-1": {
             "class": "reproductive_23"
+        },
+        "reproductive_24-1": {
+            "class": "reproductive_24"
+        },
+        "reproductive_25-1": {
+            "class": "reproductive_25"
         },
         "reproductive_26-1": {
             "class": "reproductive_26"
@@ -3575,6 +3509,9 @@
         "spinal_54-1": {
             "class": "spinal_54"
         },
+        "spinal_55-1": {
+            "class": "spinal_55"
+        },
         "spinal_56-1": {
             "class": "spinal_56",
             "type": "nerve"
@@ -3593,9 +3530,6 @@
         },
         "spinal_69-1": {
             "class": "spinal_69"
-        },
-        "urinary_10-1": {
-            "class": "urinary_10"
         },
         "urinary_11-1": {
             "class": "urinary_11"
@@ -3887,9 +3821,6 @@
         },
         "label_22-1": {
             "class": "label_22"
-        },
-        "label_23-1": {
-            "class": "label_23"
         },
         "label_24-1": {
             "class": "label_24"
@@ -6538,13 +6469,6 @@
                     "connects": [
                         "T6_spinal",
                         "ardell-6_point-9"
-                    ]
-                },
-                {
-                    "id": "bolser_11",
-                    "connects": [
-                        "brain_12-1",
-                        "vagus_point_6"
                     ]
                 },
                 {

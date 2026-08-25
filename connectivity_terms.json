@@ -464,31 +464,31 @@
     },
     {
         "id": [
-            "UBERON:0004677",
-            [
-                "UBERON:0006450"
-            ]
-        ],
-        "name": "Spinal cord gray commissure/second lumbar spinal cord segment",
-        "aliases": [
-            [
                 "ILX:0793883",
                 []
+            ],
+        "name": "Dorsal gray commissure of second lumbar segment",
+        "aliases": [
+            [
+                "UBERON:0004677",
+                [
+                    "UBERON:0006450"
+                ]
             ]
         ]
     },
     {
         "id": [
-            "UBERON:0004677",
-            [
-                "UBERON:0006448"
-            ]
+            "ILX:0793882",
+            []
         ],
-        "name": "Spinal cord gray commissure/first lumbar spinal cord segment",
+        "name": "Dorsal gray commissure of first lumbar segment",
         "aliases": [
             [
-                "ILX:0793882",
-                []
+                "UBERON:0004677",
+                [
+                    "UBERON:0006448"
+                ]
             ]
         ]
     },
@@ -636,28 +636,13 @@
     },
     {
         "id": [
-            "UBERON:0000995",
+            "UBERON:0002493",
             []
         ],
-        "name": "uterus",
+        "name": "uterine artery",
         "aliases": [
             [
                 "UBERON:0015173",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001981",
-            [
-                "UBERON:0000996"
-            ]
-        ],
-        "name": "blood vessel/vagina",
-        "aliases": [
-            [
-                "ILX:0794734",
                 []
             ]
         ]
@@ -705,21 +690,6 @@
         "aliases": [
             [
                 "UBERON:0009675",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001981",
-            [
-                "UBERON:0000995"
-            ]
-        ],
-        "name": "blood vessel/uterus",
-        "aliases": [
-            [
-                "ILX:0794737",
                 []
             ]
         ]
@@ -1244,7 +1214,7 @@
     },
     {
         "id": [
-            "UBERON:0001155",
+            "UBERON:0001158",
             []
         ],
         "name": "colon",
