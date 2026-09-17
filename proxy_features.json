@@ -98,17 +98,24 @@
         ]
     },
     {
-        "feature": "UBERON:0004917",
-        "name": "urethral sphincter",
-        "proxies": [
-            "ILX:0793141"
-        ]
-    },
-    {
         "feature": "UBERON:0001780",
         "name": "spinal nerve",
         "proxies": [
             "ILX:0738397"
+        ]
+    },
+    {
+        "feature": "UBERON:0001279",
+        "name": "portal triad",
+        "proxies": [
+            "UBERON:0002394"
+        ]
+    },
+    {
+        "feature": "UBERON:0002836",
+        "name": "lumbar dorsal root ganglion",
+        "proxies": [
+            "UBERON:0002858"
         ]
     }
 ]
